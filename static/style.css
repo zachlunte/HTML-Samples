@@ -1,0 +1,115 @@
+body {
+    background-color: #000000;
+    color: #000000;
+    text-align: center;
+    font-family: monospace;
+}
+
+table {
+    text-align: center;
+    padding: 0px;
+}
+
+a {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+#imagecell {
+    background-color: none;
+    padding: 8px;
+    text-align: center;
+}
+
+#imagecell:hover {
+    background-color: #55FF55;
+    padding: 8px;
+    text-align: center;
+}
+
+#codetable {
+    background-color: #000000;
+    color: #00FF00;
+    padding: 2px;
+    text-align: left;
+}
+
+#maintable {
+    background-color: #D0D0D0;
+    color: #000000;
+    border: 8px solid #616161;
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+}
+
+#altmaintable {
+    background-color: #D0D0D0;
+    color: #000000;
+    border: 8px solid #616161;
+    padding: 0px 12px 8px 12px;
+    text-align: center;
+}
+
+#projecttable {
+    background-color: #8E8E8E;
+    color: #000000;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#mainbutton {
+    background-color: #000000;
+    border: 2px solid #000000;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 6px;
+    color: #D0D0D0;
+}
+
+#mainbutton:hover {
+    background-color: #000000;
+    border: 2px solid #000000;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 6px;
+    color: #00FF00; 
+}
+
+#spacecell {
+    padding: 8px;
+    text-align: center;
+}
+
+#projectheadercell {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 8px;
+}
+
+#projectsubheadercell {
+    background-color: #8E8E8E;
+    color: #000000;
+    text-align: center;
+    padding: 8px;
+}
+
+#projectbodycell {
+    background-color: #FFFFFF;
+    color: #000000;
+    text-align: left;
+    padding: 8px;
+}
+
+#textcell {
+    text-align: left;
+}
